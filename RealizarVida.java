@@ -1,4 +1,5 @@
 //Criado por Darlan Araújo Moreira
+//Agosto de 2020
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Graphics;
